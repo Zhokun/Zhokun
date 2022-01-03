@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zhokun
 - 👀 I’m interested in ... developing programming skills, trying to migrate to DataScience field
-- 🌱 I’m currently learning ... python, pandas e other tools for DataScience (Studying Kotlin as an enthusiastic)
+- 🌱 I’m currently learning ... python, pandas and other tools for DataScience, such as ML.
 - 💞️ I’m looking to collaborate on ... Python projects
 - 📫 How to reach me ... Send a message here on git.
 
